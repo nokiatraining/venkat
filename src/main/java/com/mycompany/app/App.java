@@ -9,12 +9,12 @@ public class App
 
     public static void main( String[] args )
     {
-		String vamshi = "vamshi";
+		//String vamshi = "vamshi";
 		
         System.out.println( "Hello World 52rr" );
 
         System.out.println("A NullPointerException is a drag...");
-        Object myObject = null;
+        //Object myObject = null;
         /**
          * Checker prevents this from compiling...
          */
