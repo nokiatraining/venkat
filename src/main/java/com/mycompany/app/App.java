@@ -6,9 +6,12 @@ package com.mycompany.app;
  */
 public class App 
 {
+
     public static void main( String[] args )
     {
-        System.out.println( "Hello World 523" );
+		String vamshi = "vamshi";
+		
+        System.out.println( "Hello World 52rr" );
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
